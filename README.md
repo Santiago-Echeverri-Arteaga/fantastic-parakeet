@@ -3,4 +3,4 @@
 
 ## Autor: Santiago Echeverri Arteaga
 
-Este es un README
+Este es un README y aquí se exlica el repositorio
